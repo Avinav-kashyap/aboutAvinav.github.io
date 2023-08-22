@@ -1,1 +1,2 @@
-# parallax-effect about page ME AVINAV (shpwing my interest in tech).
+# parallax-effect about page
+<h2> ME AVINAV (showing my interest in tech).</h2>
